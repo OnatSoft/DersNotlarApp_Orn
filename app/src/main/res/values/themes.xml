@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DersNotlar_AppOrn" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/statusbar</item>
+    </style>
+
+    <style name="Theme.DersNotlar_AppOrn" parent="Base.Theme.DersNotlar_AppOrn" />
+</resources>
